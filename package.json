@@ -22,7 +22,7 @@
     "web-vitals": "^1.0.1"
   },
   
-  "homepage": "https://70nanon.github.io/todoapp",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
